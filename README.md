@@ -51,6 +51,7 @@ To run the project, make sure you have **Node.js** and **npm** installed. Then, 
 ## 🖼️ Screenshot
 
 ![App Screenshot](app/src/assets/screenshot1forGITHUB.png)
+![App Screenshot](app/src/assets/screensho21forGITHUB.png)
 
 ## 🚀 Authors
 
