@@ -48,6 +48,10 @@ To run the project, make sure you have **Node.js** and **npm** installed. Then, 
 - **public/** Holds static files and the base index.html file.
 - **src/assets/** Contains images and multimedia files used in the project.
 
+## 🖼️ Screenshot
+
+![App Screenshot](src/assets/screenshot1forGITHUB.jpg)
+
 ## 🚀 Authors
 
 This project was created by Davud Nušević and Vuk Lužanin.
