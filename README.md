@@ -18,17 +18,17 @@ To run the project, make sure you have **Node.js** and **npm** installed. Then, 
    ```bash
    git clone PROJECT_URL
 
-2. **Navigate to the Application Folder in Project Terminal:
+2. **Navigate to the Application Folder in Project Terminal:**
 
    ```bash
    cd app
 
-3. **Start the Local Server using npm:
+3. **Start the Local Server using npm:((
 
    ```bash
    npm run serve
    
-4. **Once the server is running, open the provided URL in your preferred web browser (usually http://localhost:8080).
+4. **Once the server is running, open the provided URL in your preferred web browser (usually http://localhost:8080).**
 
 
  ## 📚 Technologies
