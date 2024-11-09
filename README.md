@@ -23,7 +23,7 @@ To run the project, make sure you have **Node.js** and **npm** installed. Then, 
    ```bash
    cd app
 
-3. **Start the Local Server using npm:((
+3. **Start the Local Server using npm:**
 
    ```bash
    npm run serve
