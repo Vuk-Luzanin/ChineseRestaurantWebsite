@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@fawmi/vue-google-maps": "^0.9.79",
+    "leaflet": "^1.9.4",
+    "swiper": "^11.1.4",
+    "vue2-google-maps": "^0.10.7",
+    "vue2-leaflet": "^2.7.1"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0"
+  }
+}
