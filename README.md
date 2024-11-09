@@ -23,12 +23,17 @@ To run the project, make sure you have **Node.js** and **npm** installed. Then, 
    ```bash
    cd app
 
-3. **Start the Local Server using npm:**
+3. **Install npm:**
+
+   ```bash
+   npm install
+
+4. **Start the Local Server using npm:**
 
    ```bash
    npm run serve
    
-4. **Once the server is running, open the provided URL in your preferred web browser (usually http://localhost:8080).**
+5. **Once the server is running, open the provided URL in your preferred web browser (usually http://localhost:8080).**
 
 
  ## 📚 Technologies
